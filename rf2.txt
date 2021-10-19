@@ -1,1 +1,2 @@
 This is rf2 file
+new line is added
