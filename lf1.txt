@@ -3,3 +3,4 @@ second line added
 Third line added in remote
 fourth line added in remote
 a=b+c added in remote
+updated 1 in remote
