@@ -1,1 +1,2 @@
 This is lf1 file
+second line added
