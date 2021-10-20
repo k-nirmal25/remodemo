@@ -1,3 +1,4 @@
 This is lf1 file
 second line added
 Third line added in remote
+fourth line added in remote
